@@ -1,6 +1,6 @@
 {
     "name": "Retina image checker",
-    "description" : "check every srcset property of img tags and display them all",
+    "description" : "check every srcset property of img tags and display them all. icon : ICOON MONO",
     "version": "1.0",
     "manifest_version": 2,
     "browser_action": {
